@@ -1,5 +1,5 @@
 {
-  "name": "make-component",
+  "name": "@clt/make-component",
   "version": "1.0.0",
   "description": "make react functional component",
   "main": "index.js",
@@ -11,5 +11,13 @@
     "test": "mocha **/*.test.js"
   },
   "author": "George O. E. Campbell",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GCDeveloper/make-component.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GCDeveloper/make-component/issues"
+  },
+  "homepage": "https://github.com/GCDeveloper/make-component#readme"
 }
