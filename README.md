@@ -21,7 +21,7 @@ const MyComponent = ({ className = '' }) => {
 };
 ```
 
-> \$ make-component MyComponent
+> \$ make-component MyComponent y
 
 ```
 const Hello = ({ className = '', children }) => {
