@@ -1,5 +1,5 @@
 {
-  "name": "@clt/make-component",
+  "name": "@toolia/make-component",
   "version": "1.0.0",
   "description": "make react functional component",
   "main": "index.js",
