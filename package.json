@@ -1,0 +1,15 @@
+{
+  "name": "make-component",
+  "version": "1.0.0",
+  "description": "make react functional component",
+  "main": "index.js",
+  "bin": {
+    "make-component": "make-component.sh"
+  },
+  "scripts": {
+    "start": "bash make-component.sh",
+    "test": "mocha **/*.test.js"
+  },
+  "author": "George O. E. Campbell",
+  "license": "ISC"
+}
